@@ -1,4 +1,4 @@
-#  Project 3:  Webs API & Classification
+#   Webs API & Classification
 ---
 # Jordan David Nalpon
 
